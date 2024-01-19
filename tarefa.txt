@@ -1,0 +1,3 @@
+Crie o virtual host finan apontando para uma pasta fora do htdocs padrão do Apache
+Altere o DNS do windows apontando para o domínio finan
+Incluam um campo "Data da despesa" tanto no formulário, como na tabela
